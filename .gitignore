@@ -1,2 +1,6 @@
 # Ignore compiled objects
 *.out
+
+# Hidden folders except .gitignore
+.*
+!/.gitignore
